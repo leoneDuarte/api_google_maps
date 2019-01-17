@@ -1,6 +1,5 @@
 <?php
 	//LEONE DUARTE DE OLIVEIRA
-	//BANCO DE DADOS HOSTINGER
 	$servername= 'localhost';
 	$dbname = 'gps';
 	$username = 'root';
