@@ -1,6 +1,6 @@
 <?php
-	include 'conf.php';
-
+	//LEONE DUARTE DE OLIVEIRA
+   include 'conf.php';
   
    $latitude  = $_POST['latitude'];
    $longitude = $_POST['longitude'];
