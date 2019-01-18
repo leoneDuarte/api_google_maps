@@ -1,5 +1,5 @@
 <?php
-	//LEONE DUARTE DE OLIVEIRA
+//LEONE DUARTE DE OLIVEIRA
    include 'conf.php';
   
    $latitude  = $_POST['latitude'];
