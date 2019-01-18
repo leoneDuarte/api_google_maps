@@ -1,5 +1,5 @@
 <?php
-	//LEONE DUARTE DE OLIVEIRA
+	//LEONE DUARTE DE OLIVEIRa
 	$servername= 'localhost';
 	$dbname = 'gps';
 	$username = 'root';
